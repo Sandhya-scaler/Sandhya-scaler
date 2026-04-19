@@ -45,10 +45,9 @@
 * 📊 Result shown after submission
 * ⚛️ Built using React
 
-### 🔹 (Add your project here)
+### 🔹 More Projects Coming Soon...
 
-* Description
-* Tech used
+* Currently building and improving my skills 🚀
 
 ---
 
@@ -62,7 +61,7 @@
 
 ## 🌐 Connect With Me
 
-* 💼 LinkedIn: (add your link)
+* 💼 LinkedIn: https://www.linkedin.com/in/sandhya0203/
 * 💻 GitHub: https://github.com/Sandhya-scaler
 
 ---
