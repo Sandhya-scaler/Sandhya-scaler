@@ -2,7 +2,7 @@
 
 🚀 Aspiring AI/ML Engineer | 💻 DSA Learner | 🌐 Web Dev Enthusiast
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F70000\&size=30\&center=true\&vCenter=true\&width=900\&lines=Hi+I'm+Sandhya;Aspiring+Software+Engineer;DSA+%2B+Web+Development;Future+Tech+Leader)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F70000\&size=30\&center=true\&vCenter=true\&width=900\&lines=Hi+I'm+Sandhya;Aspiring+AI/ML +Engineer;DSA+%2B+Web+AI/ML;Future+Tech+Leader)
 
 ---
 
