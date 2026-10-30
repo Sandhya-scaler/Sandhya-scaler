@@ -1,5 +1,7 @@
 <div align="center">
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:1a1b27&height=120&section=header" alt="" />
+
 # Hi, I'm Sandhya 👋
 
 ### Aspiring AI/ML Engineer · Python · Machine Learning · Deep Learning
@@ -68,12 +70,20 @@ I'm a student building toward a career as an **AI/ML Engineer**. I work hands-on
 
 ## Projects
 
-### 🧩 Quiz App · React
-A timer-based quiz application with automatic scoring and results shown on submission.
-`React` `JavaScript` `State management`
-
-### 🚧 In Progress: AI/ML Projects
-I'm currently building ML projects using the stack above. Each will include the dataset, model approach, evaluation results and a short write-up. Check back soon or follow along on GitHub.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🧩 Quiz App</h3>
+      <p>A timer-based quiz application with automatic scoring and results shown on submission.</p>
+      <p><code>React</code> <code>JavaScript</code> <code>State management</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🚧 AI/ML Projects (in progress)</h3>
+      <p>Building ML projects with the stack above. Each will include the dataset, model approach, evaluation results and a short write-up.</p>
+      <p><code>Python</code> <code>scikit-learn</code> <code>PyTorch</code></p>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -81,10 +91,37 @@ I'm currently building ML projects using the stack above. Each will include the 
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Sandhya-scaler&show_icons=true&theme=tokyonight&hide_border=true" alt="Sandhya's GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sandhya-scaler&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+<table>
+  <tr>
+    <td colspan="2" align="center">
+      <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sandhya-scaler&theme=tokyonight" alt="Contribution summary" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img height="180" src="https://streak-stats.demolab.com?user=Sandhya-scaler&theme=tokyonight&border=6C63FF&border_radius=10" alt="GitHub streak" />
+    </td>
+    <td align="center">
+      <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sandhya-scaler&theme=tokyonight" alt="Most-used languages" />
+    </td>
+  </tr>
+</table>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Sandhya-scaler&color=6C63FF&style=flat-square)
+
+</div>
+
+---
+
+## Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sandhya-scaler/Sandhya-scaler/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sandhya-scaler/Sandhya-scaler/output/github-snake.svg" />
+  <img alt="Snake eating my contribution graph" src="https://raw.githubusercontent.com/Sandhya-scaler/Sandhya-scaler/output/github-snake-dark.svg" />
+</picture>
 
 </div>
 
@@ -93,5 +130,7 @@ I'm currently building ML projects using the stack above. Each will include the 
 <div align="center">
 
 **Open to AI/ML internship and entry-level opportunities. Let's connect on [LinkedIn](https://www.linkedin.com/in/sandhya0203/).**
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:1a1b27&height=120&section=footer" alt="" />
 
 </div>
